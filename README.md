@@ -1,23 +1,16 @@
-# Hi there, I'm Michał 👋 
+# Hi there, I'm Michał :wave:
 
-## I'm a programming enthusiast and a Civil Engineering student 
+## I'm a .Net Software Develeoper and a Civil Engineer
 
-- 🌱 I’m currently learning Django, expanding my web development knowledge, and preparing to write my master's thesis
-- 🎓🐍 My programming journey has started with Python and MatLab thanks to one of the courses during my undergraduate studies
-- 👨‍🎓 For my master's thesis, I'm creating a desktop Concrete Reinforcement Calculator application
-- ⚡  I spend my free time   coding  and playing guitar 
+- :office: In my work I develop dedicated Civil Engineering software
+- :computer: I mostly use C# related technologies, such as .Net frameworks, WPF, and Tekla Open API
+- :zap::books::volleyball: I spend my free time coding, playing guitar, and watching volleyball
+- :fire: Additionally, I partake in external coding projects allowing me to enhance my programming skills 
+- :microphone: My most recent one is a real-time speech recognition desktop application with Touch Designer integration
 
 ### Languages and tools:
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
-<img align="left" alt="PyQt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Python_and_Qt.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="./img/django.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" style="padding-right:10px;" />
-<img align="left" alt="Postman" width="26px" src="./img/postman.svg" style="padding-right:10px;" />
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,qt,django,html,css,js,git,vscode,visualstudio,postman)](https://skillicons.dev)
 &nbsp;&nbsp;
 
 ### Contact me:
