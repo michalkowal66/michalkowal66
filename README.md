@@ -1,6 +1,6 @@
 # Hi there, I'm Michał :wave:
 
-## I'm a Software Develeoper, a Computer Science student and a Civil Engineer
+## I'm a Software Developer, a Computer Science student and a Civil Engineer
 
 - :office: :computer: In my work I develop dedicated Civil Engineering software using C# (Tekla Open API, ASP.NET) and Python
 - :man_student: I study Computer Science at Cracow University of Technology
