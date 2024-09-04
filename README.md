@@ -1,16 +1,16 @@
 # Hi there, I'm Michał :wave:
 
-## I'm a .Net Software Develeoper and a Civil Engineer
+## I'm a Software Develeoper, a Computer Science student and a Civil Engineer
 
-- :office: In my work I develop dedicated Civil Engineering software
-- :computer: I mostly use C# related technologies, such as .Net frameworks, WPF, and Tekla Open API
-- :zap::books::volleyball: I spend my free time coding, playing guitar, and watching volleyball
-- :fire: Additionally, I partake in external coding projects allowing me to enhance my programming skills 
-- :microphone: My most recent one is a real-time speech recognition desktop application with Touch Designer integration
+- :office: :computer: In my work I develop dedicated Civil Engineering software using C# (Tekla Open API, ASP.NET) and Python
+- :man_student: I study Computer Science at Cracow University of Technology
+- :zap: :books: :robot: :volleyball: In my free time i like to code and build electronics, play guitar, and watch volleyball
+- :fire: Additionally, I participate in courses and create projects allowing me to enhance my programming skills
+- :microphone: One of my favorites is a real-time speech recognition desktop application with Touch Designer integration
 
 ### Languages and tools:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,qt,django,html,css,js,git,vscode,visualstudio,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,c,cpp,go,qt,django,html,css,js,git,vscode,visualstudio,pycharm,postman,ubuntu,mysql,docker,nginx&perline=10)](https://skillicons.dev)
 &nbsp;&nbsp;
 
 ### Contact me:
